@@ -1,0 +1,75 @@
+site_name: Técnico em Informática para Internet
+nav:
+  - Home: index.md
+  - Disciplinas:
+    - Arquitetura de Hardware e Software: Disciplinas/arquitetura.md
+    - Desenvolvimento WEB I: Disciplinas/desenvolvimento.md
+    - Lógica de Programação e Algoritmos: Disciplinas/logica.md
+  - Questionários: Questionarios/questionarios.md
+  - Extras: Extras/extras.md
+
+
+theme:
+  logo: 
+  name: material
+  font:
+    text: Noto 
+    code: Fira Code
+# site_url: https://github.com/te2mb
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: pt-br
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: purple 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: teal
+      accent: lime
+
+plugins:
+  # - social
+  - search
+
+# extra:
+#   social:
+#     - icon: fontawesome/brands/github-alt
+#       link: https://github.com/james-willett
+#     - icon: fontawesome/brands/twitter
+#       link: https://twitter.com/TheJamesWillett
+#     - icon: fontawesome/brands/linkedin
+#       link: https://www.linkedin.com/in/willettjames/
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.mark
+  - attr_list
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:materialx.emoji.twemoji
+  #     emoji_generator: !!python/name:materialx.emoji.to_svg
+
+# copyright: |
+#   &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
