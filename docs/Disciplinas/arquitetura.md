@@ -31,15 +31,15 @@ Explicar:
 
 #### Equipe 3
 
-``Importância dos mockups``
+``Importância das interfaces de linha de comando``
 
 Explicar:
- - o que são?
- - ferramentas de criação de mockups.
- - Importância dos mockups no desenvolvimento de produtos e interfaces.
+ - O que CLI e GUI?
+ - Porque ainda fazemos uso de terminais, mesmo com uma interface gráfica avançada?
+ - Comandos mais usados e diferenças entre Bash e PowerShell
  - Quais profissionais usam este recurso e como ele é usado no desenvolvimento de aplicações web.
 
- 
+
 
 
 
