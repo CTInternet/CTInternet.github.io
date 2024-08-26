@@ -1,10 +1,8 @@
 ## Arquitetura de Hardware e Software
-
-22 de Agosto de 2024
+22/08/2024
 
 ## Roteiro 
 
-### Parte 1
 
 Dividir a sala em grupos para tomar conhecimento dos seguintes temas:
 
