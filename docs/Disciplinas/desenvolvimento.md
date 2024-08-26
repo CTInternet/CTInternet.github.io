@@ -1,8 +1,10 @@
 ##Introdução ao HTML
 ___
 
+### Aula 1
+
 <div align="center">
-<h3>Introdução à construção de páginas web - parte 1</h3>
+<h1>Introdução à construção de páginas web</h1>
 </div>
 ###  
 19/08/2024
@@ -10,7 +12,7 @@ ___
 
 Instruções:
 
-1. Acesse o site  e veja a matéria  [esportelandia.com](https://www.esportelandia.com.br/olimpiadas/melhores-atletas-brasileiros-da-atualidade/) **42 melhores atletas brasileiros da atualidade**.
+1. Acesse o site  e veja a matéria <a href="https://www.esportelandia.com.br/olimpiadas/melhores-atletas-brasileiros-da-atualidade/" target="_blank">esportelandia.com</a> **42 melhores atletas brasileiros da atualidade**.
 2. Escolha um entre os 42 que estão na lista e crie uma página web com informações sobre atleta escolhido. 
 3. Após a escolha, crie um projeto web novo no __vscode__. A página deverá conter os seguintes elementos:
    - Um título h1 com o nome do atleta homenageado
@@ -37,10 +39,10 @@ Nesta aula usaremos vamos utilizar estrear as seguintes tags:
 Boa prática 💪
 
 ___
-
+### Aula 2
 
 <div align="center">
-<h3>Introdução à construção de páginas web - parte 2</h3>
+<h1>Introdução à construção de páginas web - parte 2</h1>
 </div>
 26/08/2024
 

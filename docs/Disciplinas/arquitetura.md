@@ -1,14 +1,14 @@
-## Arquitetura de Hardware e Software
+## Conceitos de personalização e usabilidade
 22/08/2024
 
-## Roteiro 
+## 
 
 
 Dividir a sala em grupos para tomar conhecimento dos seguintes temas:
 
-#### Equipe 1
+#### Tipos de fontes tipográficas
 
-``Tipos de fontes tipográficas``
+``Equipe 1``
 
 Explicar:
  - O que são as fontes tipográficas e quais tipos?
@@ -17,9 +17,9 @@ Explicar:
  - Serifadas vs. Sans-Serifadas, Monoespaçadas, cursivas
  - Legibilidade e Usabilidade
 
-#### Equipe 2
+#### Importância das cores no design de páginas web
 
-``Importância das cores no design de páginas web``
+``Equipe 2``
 
 Explicar:
  - Evolução do Uso de Cores na Web
@@ -27,9 +27,9 @@ Explicar:
  - Como diferentes cores influenciam emoções e ações dos usuários
  - Sistemas de representação de cores RGB, CMYK e outros.
 
-#### Equipe 3
+#### Importância das interfaces de linha de comando
 
-``Importância das interfaces de linha de comando``
+``Equipe 3``
 
 Explicar:
  - O que CLI e GUI?

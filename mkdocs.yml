@@ -31,15 +31,15 @@ theme:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: teal
-      accent: purple 
+        name: Alternar para modo escuro
+      primary: black
+      accent: blue
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: teal
-      accent: lime
+        name: Alternar para modo claro    
+      primary: black
+      accent: blue
 
 plugins:
   # - social
