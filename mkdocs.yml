@@ -2,15 +2,18 @@ site_name: Técnico em Informática para Internet
 nav:
   - Home: index.md
   - Disciplinas:
-    - Arquitetura de Hardware e Software: Disciplinas/arquitetura.md
+    - Arquitetura de Hardware e Software: 
+        - Disciplinas/arquitetura.md
     - Desenvolvimento WEB I: 
         - Disciplinas/revisao_disciplina.md
         - Disciplinas/introducao_html.md
         - Disciplinas/introducao_css.md
-    - Lógica de Programação e Algoritmos: Disciplinas/logica.md
-  - Questionários: Questionarios/questionarios.md
-  - Extras: Extras/extras.md
-
+    - Lógica de Programação e Algoritmos: 
+        - Disciplinas/logica.md
+  - Questionários: 
+        - Questionarios/questionarios.md
+  - Extras: 
+        - Extras/extras.md
 
 theme:
   logo: 
