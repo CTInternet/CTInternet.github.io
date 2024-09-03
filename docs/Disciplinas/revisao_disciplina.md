@@ -4,8 +4,6 @@ Esta aba da disciplina de **Desenvolvimento WEB I**, tem como objetivo auxiliar 
 
 Recomendo, aos que interessarem, aprender o módulo 1 completo. [Curso completo de HTML5 e CSS3 - Módulo 1](http://https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n "Curso completo de HTML5 e CSS3 - Módulo 1")
 
-
-
 ### 1 - Instalação de ferramentas
 
 Neste vídeo o professor Gustavo Guanabara ensina como instalar o **VScode** e o **Google Chrome**. É provavél que o Google Chrome já esteja instalado em seu computador, ou o Microsoft Edge. Ambos fazem o mesmo trabalho. 
