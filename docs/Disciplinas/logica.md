@@ -18,6 +18,7 @@
 |    del    | deletar/apagar  |   del   |
 |  rename   |    renomear     |   ren   |
 |   ping    | pingar(acessar) |  ping   |
+
 #### Revisão de usabilidade e comandos
 
 Lista de comandos e atalhos do Windows
