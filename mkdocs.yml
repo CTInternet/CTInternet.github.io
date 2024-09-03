@@ -4,6 +4,7 @@ nav:
   - Disciplinas:
     - Arquitetura de Hardware e Software: Disciplinas/arquitetura.md
     - Desenvolvimento WEB I: 
+        - Disciplinas/revisao_disciplina.md
         - Disciplinas/introducao_html.md
         - Disciplinas/introducao_css.md
     - Lógica de Programação e Algoritmos: Disciplinas/logica.md
