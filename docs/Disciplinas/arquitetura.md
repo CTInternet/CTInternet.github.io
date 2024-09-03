@@ -1,8 +1,4 @@
-## Conceitos de personalização e usabilidade
-22/08/2024
-
-## 
-
+# Fontes tipográficas
 
 Dividir a sala em grupos para tomar conhecimento dos seguintes temas:
 

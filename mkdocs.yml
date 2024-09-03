@@ -19,7 +19,7 @@ theme:
   logo: 
   name: material
   font:
-    text: Noto 
+    text: Inter
     code: Fira Code
 # site_url: https://github.com/te2mb
   features:

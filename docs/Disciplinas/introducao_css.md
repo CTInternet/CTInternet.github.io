@@ -1,7 +1,5 @@
 # Introdução ao CSS
 
-Etapa 0
-
 Acesse o site da Fundação Mozilla e leia este artigo: <a href="https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank">CSS básico</a>
 
 
@@ -18,40 +16,109 @@ Instruções:
 
 ![Alison](img/alison_page.png)
 
-### O que é CSS?
+Código usado na aula anterior:
 
-CSS (Cascading Style Sheets) é uma linguagem usada para descrever a aparência e o layout de uma página web. 
+```css
+    div {
+        color: #f2a176
+    }
+    p {
+        color: #566965
+    }
+    h1 {
+        color: #ff7373
+    }
 
-``background-color: rgb(117, 213, 112);``
-
-O que faz: Define a cor de fundo do ``<div>``.
-Detalhe: Usamos o formato rgb, que significa "Red, Green, Blue" (Vermelho, Verde, Azul). Os números (117, 213, 112) são as intensidades dessas cores. Essa cor específica será um tom de verde.
-
-
-``padding: 20px;``
-
-O que faz: Cria um espaço interno ao redor do conteúdo dentro do ``<div>``
-Detalhe: Imagine que o conteúdo do ``<div>`` está em uma caixa; padding é o espaço entre o conteúdo e a borda da caixa. Aqui, estamos definindo um espaço de 20 pixels em todas as direções.
-
-
-``border-radius: 8px;``
-
-O que faz: Arredonda os cantos do ``<div>``.
-Detalhe: Em vez de cantos retos, esse código faz com que os cantos da caixa sejam suavemente arredondados.
+```
+___
 
 
-``max-width: 600px;``
 
-O que faz: Limita a largura máxima do ``<div>`` a 600 pixels.
-Detalhe: Isso significa que, mesmo que a tela seja maior, o ``<div>`` não ficará maior que 600 pixels. Se a tela for menor, o ``<div>`` se ajusta para caber.
+## Aula 2
+### CSS Externo e Personalização de Estilos
+
+**O que é CSS Externo?**
+
+É um método de aplicar estilos a uma página da internet, por meio de arquivo com extensão .css e "linká-lo" arquivo HTML
+
+**Como ligar o arquivo CSS ao arquivo HTML**
+
+- Com o software `VSCode` abra a *pasta* do projeto `intro-personalizacao-css`, (aula anterior) e crie um novo arquivo com o seguinte nome: `stylesheet.css`.
+
+- No arquivo `index.html` dentro da tag `head` insira o código abaixo:
+
+    ```html
+
+        <link rel="stylesheet" href="stylesheet.css">
+ 
+    ```
+
+- Abra o arquivo `stylesheet.css`
 
 
-``margin: auto;``
+### Personalizando a Cor das Tags 
 
-O que faz: Centraliza o ``<div>`` na tela.
-Detalhe: auto ajusta automaticamente as margens esquerda e direita para que o ``<div>`` fique centralizado.
+```css
+p {
+    color: #008000
+}
 
-O resultado deverá ser semelhante a este:
+h1 {
+    color: rgb(145, 250, 159)
+}
 
-![Alison](img/alison_page2.png)
+h2 {
+    color: #089d08;
+}
+
+ul {
+    color: #0cf00c;
+}
+
+div {
+    /* Define uma cor de fundo para o elemento */
+    background-color: #fff8dc;
+}
+```
+
+Ao concluir as etapas acima, você deverá ter o seguinte resultado:
+
+![Alison](img/alison_page3.png)
+
+
+
+## Ajuste de aspecto e harmonia de exibição
+
+Para melhorar a exibição da página (layout) será preciso readaptar o código `css`. Vamos às mudanças:
+
+````css
+* {
+    color: #0c59b8;
+    font-family: Georgia;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+}
+
+div {
+    /* Define uma cor de fundo para o elemento */
+    background-color: #fff8dc;
+	/* Cria uma borda arredondada com o tamanho de  8 pixels */
+    border-radius: 8px;
+	/*Cria uma margem entre a div e o texto*/
+    padding: 20px;
+}
+````
+
+Agora temos esta exibição:
+
+![Alison](img/alison_page4.png)
+
 
