@@ -10,6 +10,7 @@ nav:
         - Disciplinas/introducao_css.md
     - Lógica de Programação e Algoritmos: 
         - Disciplinas/logica.md
+        - Disciplinas/estrutura_sequencial.md
   - Questionários: 
         - Questionarios/questionarios.md
   - Extras: 
