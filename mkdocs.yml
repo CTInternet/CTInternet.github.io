@@ -11,6 +11,7 @@ nav:
     - Lógica de Programação e Algoritmos: 
         - Disciplinas/logica.md
         - Disciplinas/estrutura_sequencial.md
+        - Disciplinas/estrutura_decisao.md
   - Questionários: 
         - Questionarios/questionarios.md
   - Extras: 

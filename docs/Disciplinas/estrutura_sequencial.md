@@ -1,8 +1,8 @@
-# 01 - Estrutura Sequencial com Python
+# Programação com Python - Aula 01 - Semana Intensiva 
 
-## Semana intensiva de Lógica de Programação e Algoritmos
+## Estrutura Sequencial
 
-### O que é Estrutura Sequencial?
+O que é Estrutura Sequencial?
 
 Imagine um programa de computador como uma receita: cada passo precisa ser executado em uma ordem específica para se chegar ao resultado final. A estrutura sequencial é o conceito fundamental que define essa ordem linear de execução. Em Python, as instruções são executadas linha por linha, uma após a outra.
 
@@ -57,7 +57,7 @@ Para coletar números com casas decimais, como alturas ou pesos, utilizamos a fu
 altura = float(input("Digite sua altura (em metros): "))
 print("Sua altura é", altura, "metros.")
 ```
-Exemplo Completo
+#### Exemplo Completo
 ```python
 nome = input("Digite seu nome: ")
 idade = int(input("Digite sua idade: "))
