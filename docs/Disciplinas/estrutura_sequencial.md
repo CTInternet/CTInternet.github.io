@@ -48,7 +48,9 @@ print("Você tem", idade, "anos.")
 *Explicação:*
 
 `input("Digite sua idade: ")` ➡️ Essa parte exibe a mensagem para o usuário e aguarda a entrada.
+
 `int()` ➡️ Essa função converte a string digitada pelo usuário em um número inteiro.
+
 `idade`  O valor convertido é armazenado na variável idade.
 
 **Input de Números de Ponto Flutuante (Float)**

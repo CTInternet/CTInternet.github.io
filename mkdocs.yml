@@ -9,6 +9,7 @@ nav:
         - Disciplinas/introducao_html.md
         - Disciplinas/introducao_css.md
     - Lógica de Programação e Algoritmos: 
+        - Disciplinas/revisao_logica.md
         - Disciplinas/logica.md
         - Disciplinas/estrutura_sequencial.md
         - Disciplinas/estrutura_decisao.md
