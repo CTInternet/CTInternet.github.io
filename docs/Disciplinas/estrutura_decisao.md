@@ -98,3 +98,7 @@ if nota >= 7 and faltas <= 10:
 elif nota < 7 or faltas > 10:
     print("Reprovado.")
 ```
+
+Baixe aqui o arquivo da aula aqui 
+
+https://github.com/CTInternet/arquivos/blob/main/L%C3%B3gica%20com%20python%20-%20Estrutura%20decis%C3%A3o/Aula02_EstruturaDecis%C3%A3o.ipynb
