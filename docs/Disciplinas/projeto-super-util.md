@@ -70,3 +70,6 @@ O **reset de CSS** consiste em aplicar uma folha de estilo que redefine esses va
 }
 
 ```
+
+Arquivo a ser utilizado em sala no início do projeto:
+Baixe inicial do <a href="https://github.com/CTInternet/arquivos/blob/main/Desenvolvimento%20WEB%20I/projeto-super-util.zip" target="_blank">Projeto Super Útil</a>
