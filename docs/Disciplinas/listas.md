@@ -293,3 +293,6 @@ len(nova_lista)
 <!-- ```python
 
 ``` -->
+
+🗒️ Arquivo sobre <a href="https://github.com/CTInternet/arquivos/tree/main/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/04%20L%C3%B3gica%20com%20python%20-%20Listas" target="_blank">➡️ Listas em Python ⬅️</a> 🗒️
+
