@@ -1,4 +1,4 @@
-# ⚠️ Revisão de Desenvolvimento WEB I
+# 💻✏️ Revisão de Desenvolvimento WEB I
 
 Esta aba da disciplina de **Desenvolvimento WEB I**, tem como objetivo auxiliar os alunos que estão com dificuldades nesta disciplina, ou que perderam aulas por motivos diversos. Aqui também é possível aprender com mais detalhes alguns recursos que a ementa da disciplina não contempla.
 

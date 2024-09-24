@@ -1,4 +1,4 @@
-# ⚠️ Revisão de Lógica de Programação e Algoritmos
+# 💻✏️ Revisão de Lógica de Programação e Algoritmos
 
 Esta seção da disciplina de **Lógica de Programação e Algoritmos**, tem como objetivo auxiliar os alunos que estão com dificuldades nesta disciplina, ou que perderam aulas por motivos diversos. Aqui também é possível aprender com mais detalhes alguns recursos que a ementa da disciplina não contempla.
 
