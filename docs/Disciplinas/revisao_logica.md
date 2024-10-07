@@ -17,3 +17,7 @@ Esta seção da disciplina de **Lógica de Programação e Algoritmos**, tem com
 
 <iframe width="1513" height="537" src="https://www.youtube.com/embed/Yvo1lHk3QmA" title="If, Elif, Else (Estruturas de Decisão) | Python em 30 minutos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### Listas. Tuplas e Dicionários
+
+<iframe width="1513" height="569" src="https://www.youtube.com/embed/pTN5s-DirNE" title="Lista, Tupla, Conjunto e Dicionário (Estruturas Compostas) | Python em 30 minutos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

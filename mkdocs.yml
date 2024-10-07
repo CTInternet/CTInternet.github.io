@@ -15,6 +15,8 @@ nav:
         - Disciplinas/estrutura_sequencial.md
         - Disciplinas/estrutura_decisao.md
         - Disciplinas/listas.md
+        - Disciplinas/Tuplas.md
+        - Disciplinas/Dicionarios.md
   - Questionários: 
         - Questionarios/questionarios.md
   - Extras: 
