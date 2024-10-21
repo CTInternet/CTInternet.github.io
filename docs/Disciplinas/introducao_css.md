@@ -114,6 +114,9 @@ div {
     border-radius: 8px;
 	/*Cria uma margem entre a div e o texto*/
     padding: 20px;
+    /*Alinha a div ao centro da página*/
+    max-width: 600px;
+    justify-content: center
 }
 ````
 
