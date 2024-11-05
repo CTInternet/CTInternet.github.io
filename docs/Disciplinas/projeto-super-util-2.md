@@ -1,6 +1,6 @@
-# Projeto Super Útil - Seu canivete suiço
+# Fase 2 do Projeto Super Útil
 
-O Projeto Super Útil tem como objetivo o desenvolvimento de um site que oferece uma variedade de pequenas ferramentas práticas para o uso cotidiano. Ao longo do desenvolvimento, novos conceitos serão gradualmente introduzidos, promovendo o aprofundamento no aprendizado dos conteúdos da disciplina de Desenvolvimento WEB I.
+## Atualização dos arquivos de projeto
 
-## Aula 2 : Avançando nos conceitos de CSS
+🗒️ Arquivo para Download <a href="https://github.com/CTInternet/arquivos/blob/main/Desenvolvimento%20WEB%20I/Projeto%20Super%20%C3%9Atil%20-%20Fase%202/06%20-%20projeto%20super%20util.zip" target="_blank">➡️ Projeto Super Útil - Fase 2 ⬅️</a> 🗒️
 

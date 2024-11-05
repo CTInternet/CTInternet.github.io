@@ -9,6 +9,7 @@ nav:
         - Disciplinas/introducao_html.md
         - Disciplinas/introducao_css.md
         - Disciplinas/projeto-super-util.md
+        - Disciplinas/projeto-super-util-2.md
     - Lógica de Programação e Algoritmos: 
         - Disciplinas/revisao_logica.md
         - Disciplinas/logica.md
@@ -19,6 +20,7 @@ nav:
         - Disciplinas/Dicionarios.md
         - Disciplinas/LoopFor_While.md
         - Disciplinas/listaexercicios.md
+        - Disciplinas/Funcoes.md
   - Questionários: 
         - Questionarios/questionarios.md
   - Extras: 
