@@ -1,5 +1,7 @@
 # Revisão de Prova Bimestral - Tema 1 - Strings
 
+Link para download do arquivo <a href="https://github.com/CTInternet/arquivos/blob/main/Algoritmos%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/09%20-%20Revis%C3%A3o%20Strings/Revis%C3%A3o_Strings.ipynb" target="_blank">Revisão Strings</a>
+
 ### Criando uma String
 Para criar uma string em Python você pode usar aspas simples ou duplas. Por exemplo:
 
