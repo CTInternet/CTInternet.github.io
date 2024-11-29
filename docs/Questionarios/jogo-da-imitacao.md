@@ -1,4 +1,4 @@
-# Questionário avaliativo sobre "O Jogo da Imitação" com foco em Arquitetura de Hardware e Software
+# Questionário avaliativo: O Jogo da Imitação
 
 Após assistir ao filme o **O Jogo da Imitação**, respnda ao questionário avaliativo abaixo:
 

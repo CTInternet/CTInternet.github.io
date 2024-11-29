@@ -23,8 +23,10 @@ nav:
         - Disciplinas/Funcoes.md
         - Disciplinas/Revisão_Strings.md
   - Questionários: 
-        - Questionarios/questionarios.md
+        - Questionarios/obsolecencia.md
+        - Questionarios/jogo-da-imitacao.md
         - Questionarios/conhecendo_computadores.md
+        
   - Extras: 
         - Extras/extras.md
 
